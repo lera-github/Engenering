@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d9e7f431-3397-4533-994e-34d8f5bd0f51",
+    "Name": "UsrFloInFolder",
+    "ModifiedOnUtc": "\/Date(1703417831000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Flowers в группе"
+  }
+}
