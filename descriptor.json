@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "81f7ff0f-f879-ea93-9486-196683be86b2",
+    "Name": "StudentSql",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1703414089000)\/",
+    "DependsOn": []
+  }
+}
